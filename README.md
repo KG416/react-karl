@@ -28,7 +28,7 @@ _updated 22-08-10_
 ## Styling
 
 - The CSS extension `SASS` is used in this project.
-- Components and views have separate CSS files (modules) with locally scoped classes. _Please note that element selectors are not locally scoped._
+- Components and views have separate CSS files (modules) with locally scoped classes. _Element selectors are not locally scoped._
 - The `global.scss` file contains global styles and variables.
 - The `index.scss` file contains default settings, fonts, accessibility etc.
 
@@ -42,7 +42,7 @@ _**Scope** = a specific area/part of the app_
 
 In this project `eslint` is used for linting & `prettier` is used for code formatting.
 
-[Airbnb Style Guide](https://github.com/airbnb/javascript) is used as starting point for this app
+[Airbnb Style Guide](https://github.com/airbnb/javascript) is used as starting point
 
 ## Code organisation
 
