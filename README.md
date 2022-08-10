@@ -1,5 +1,6 @@
 # 🍐 Karls React Template
-_updated 22-05-07_
+
+_updated 22-08-10_
 
 ## Prerequisites
 
@@ -25,6 +26,7 @@ _updated 22-05-07_
 ...
 
 ## Styling
+
 - The CSS extension `SASS` is used in this project.
 - Components and views have separate CSS files (modules) with locally scoped classes. _Please note that element selectors are not locally scoped._
 - The `global.scss` file contains global styles and variables.
@@ -40,7 +42,7 @@ _**Scope** = a specific area/part of the app_
 
 In this project `eslint` is used for linting & `prettier` is used for code formatting.
 
-[Starting point for setup](https://dev.to/s2engineers/how-to-make-eslint-work-with-prettier-avoiding-conflicts-and-problems-57pi)
+[Airbnb Style Guide](https://github.com/airbnb/javascript) is used as starting point for this app
 
 ## Code organisation
 
@@ -52,3 +54,5 @@ Code is organized into the following folders:
 - **assets** - Static binary assets such as sound and images
 
 ## Inspiration
+
+...
